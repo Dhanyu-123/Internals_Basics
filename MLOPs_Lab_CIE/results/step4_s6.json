@@ -1,0 +1,7 @@
+{
+  "registered_model_name": "edutrack-completion-days-predictor",
+  "version": 1,
+  "run_id": "57a5e61f82184fd290a9d16c5644f24c",
+  "source_metric": "rmse",
+  "source_metric_value": 16.794451783452754
+}
