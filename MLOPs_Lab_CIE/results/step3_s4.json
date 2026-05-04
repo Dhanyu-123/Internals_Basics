@@ -1,7 +1,16 @@
 {
-  "health": {
+  "health_endpoint": "/health",
+  "predict_endpoint": "/predict",
+  "port": 8080,
+  "health_response": {
     "alive": true,
     "service": "EduTrack completion_days API"
   },
-  "sample_prediction": 31.473825106397204
+  "test_input": {
+    "course_hours": 98,
+    "quizzes_count": 22,
+    "difficulty_level": 3,
+    "learner_experience": 2
+  },
+  "prediction": 31.473825106397204
 }
