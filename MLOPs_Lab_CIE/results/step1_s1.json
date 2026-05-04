@@ -1,0 +1,22 @@
+{
+    "experiment_name": "edutrack-completion-days",
+    "models": [
+        {
+            "name": "SVR",
+            "mae": 21.638326799516847,
+            "rmse": 24.257302106226703,
+            "r2": -0.12904373545793146,
+            "mape": 35.375589363660254
+        },
+        {
+            "name": "GradientBoosting",
+            "mae": 14.966092709916671,
+            "rmse": 16.794451783452754,
+            "r2": 0.4588004397736135,
+            "mape": 22.928667672673377
+        }
+    ],
+    "best_model": "GradientBoosting",
+    "best_metric_name": "rmse",
+    "best_metric_value": 16.794451783452754
+}
