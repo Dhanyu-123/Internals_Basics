@@ -1,0 +1,7 @@
+{
+  "health": {
+    "alive": true,
+    "service": "EduTrack completion_days API"
+  },
+  "sample_prediction": 31.473825106397204
+}
